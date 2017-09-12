@@ -52,7 +52,7 @@
 .main-color-bg {
   background-color: #e74c3c !important;
   border-color: #c0392b !important;
-  color: #fff; }
+  color: #fff !important; }
 
 #header {
   background-color: #333;
@@ -63,11 +63,17 @@
 #header .create-content {
   padding-top: 20px; }
 
+.dash-box {
+  text-align: center; }
+
 .breadcrumb {
   background-color: #ccc;
   color: #333; }
   .breadcrumb a {
     color: #333; }
+
+.progress-bar {
+  background-color: #333; }
 
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
