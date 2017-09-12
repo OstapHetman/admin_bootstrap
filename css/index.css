@@ -66,6 +66,9 @@
 .dash-box {
   text-align: center; }
 
+.modal-content {
+  top: 10vh !important; }
+
 .breadcrumb {
   background-color: #ccc;
   color: #333; }
