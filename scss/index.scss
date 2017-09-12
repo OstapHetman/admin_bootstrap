@@ -1,0 +1,12 @@
+@import '_variables';
+// ========Layout=========
+@import 'layout/_navbar';
+@import 'layout/_header';
+// ========Components=========
+@import 'components/_breadcrumb';
+// ========MEDIA=========
+@import '_media';
+// ============= STYLE =============
+body {
+    background-color: $body-bg;
+}
