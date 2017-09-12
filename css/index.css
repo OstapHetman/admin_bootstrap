@@ -69,6 +69,13 @@
 .modal-content {
   top: 10vh !important; }
 
+#footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px; }
+
 .breadcrumb {
   background-color: #ccc;
   color: #333; }
